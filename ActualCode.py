@@ -2,9 +2,11 @@
 #Lets You find The number of letters
 
 def main():
-
+  
+  #For entering a word
   nanme = input('Enter a Name: ').lower()
   
+  #For entering the letter you want to search for
   lett = input('What Letter : ')
 
   count = 0
