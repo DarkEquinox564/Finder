@@ -7,7 +7,7 @@ def main():
   nanme = input('Enter a Name: ').lower()
   
   #For entering the letter you want to search for
-  lett = input('What Letter : ')
+  lett = input('What Letter Do You Want to  Find: ')
 
   count = 0
 
